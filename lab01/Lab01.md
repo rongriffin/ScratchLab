@@ -29,3 +29,8 @@ Try adding the glide to your Sprite so it moves smoothly across the board.  Chan
 What happens?
 
 ![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab01/Lab1Extra.png)
+
+
+##Continue to Lab 2
+
+Click here:  [https://github.com/rongriffin/ScratchLab/blob/master/lab01/Lab02.md](https://github.com/rongriffin/ScratchLab/blob/master/lab02/Lab02.md)
