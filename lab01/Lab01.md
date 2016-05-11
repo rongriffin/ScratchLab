@@ -6,7 +6,7 @@
 
 2. Find the "Move 10 Steps" shape under the *Motion* commands and drag it to your canvas.  Change the number from 10 to 100.  
 
-![](/lab1_step2.png)
+![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab01/Lab1Step2.PNG)
 
 
 3. Find the "Turn right 15 degrees" shape under the *Motion* commands and drag it to your canvas so connects to your first shape.  Change the number 15 to 90.  INSERT IMAGE
