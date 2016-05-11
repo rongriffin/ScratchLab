@@ -24,6 +24,8 @@
 
 ## If you have time
 
-Try adding the glide to your Sprite so it moves smoothly across the board.  Change the x and y numbers both to 100.
+Try adding the glide to your Sprite so it moves smoothly across the board.  Change the x and y numbers both to 100.  
 
-![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab01/Lab1Extra.PNG)
+What happens?
+
+![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab01/Lab1Extra.png)
