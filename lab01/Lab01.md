@@ -33,4 +33,4 @@ What happens?
 
 ##Continue to Lab 2
 
-Click here:  [https://github.com/rongriffin/ScratchLab/blob/master/lab01/Lab02.md](https://github.com/rongriffin/ScratchLab/blob/master/lab02/Lab02.md)
+Click here:  [https://github.com/rongriffin/ScratchLab/blob/master/lab02/Lab02.md](https://github.com/rongriffin/ScratchLab/blob/master/lab02/Lab02.md)
