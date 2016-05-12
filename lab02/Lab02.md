@@ -4,12 +4,12 @@
 
 We'll start similar to Lab 1....
 
-1.  Click this link to open Scratch: <a href="https://scratch.mit.edu/projects/editor/?tip_bar=getStarted" target="_blank">https://scratch.mit.edu/projects/editor/?tip_bar=getStarted</a>
+1.  Click this link to open Scratch and start a new canvas: <a href="https://scratch.mit.edu/projects/editor/?tip_bar=getStarted" target="_blank">https://scratch.mit.edu/projects/editor/?tip_bar=getStarted</a>
 
 2. Find the "Move 10 Steps" shape under the *Motion* commands and drag it to your canvas.  Change the number from 10 to 100.  <br/>
 ![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab02/Lab2Step2.PNG)
 
-3. Find the "Turn right 15 degrees" shape under the *Motion* commands and drag it to your canvas so connects to your first shape.  Change the number 15 to 90. <br/>  
+3. Find the "Turn right 15 degrees" shape under the *Motion* commands and drag it to your canvas so it connects to your first shape.  Change the number 15 to 90. <br/>  
 ![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab02/Lab2Step3.png)
 
 4. Find the "wait 1 secs" shape under the *Control* commands and drag it to your canvas so that it connects to your previous shape.<br/>
@@ -18,7 +18,7 @@ We'll start similar to Lab 1....
 5. Your canvas should look like this: <br/>
 ![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab02/Lab2Step5.png)
 
-6. This time, select the "repeat 10" shape under the *Control* commands and drag it to your canvas.  Drag the shapes you built in steps 2-6 inside of the "repeat 10" shape.  Your canvas should look like this: <br/>
+6. This time, select the "repeat 10" shape under the *Control* commands and drag it to your canvas.  Drag the shapes you built in steps 2-6 **inside** of the "repeat 10" shape.  Your canvas should look like this: <br/>
 ![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab02/Lab2Step6.png)
 
 
