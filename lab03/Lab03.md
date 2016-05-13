@@ -5,10 +5,10 @@
 Keep your work from lab 2.
 
 1.  From lab 2, your canvas should look like this:<br/>
-![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab03/Lab3Step1.PNG)
+![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab03/Lab3Step1.png)
 
 2. Find the "When Clicked" shape under the *Events* commands and drag it to your canvas.  DO NOT connect it with any other shape<br/>
-![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab03/Lab3Step2.PNG)
+![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab03/Lab3Step2.png)
 
 3. Find the "Play sound meow" shape under the *Sounds* commands and drag it to your canvas so that it connects to your first shape.<br/>  
 ![](https://raw.githubusercontent.com/rongriffin/ScratchLab/master/lab03/Lab3Step3.png)
